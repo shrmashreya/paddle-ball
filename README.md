@@ -1,0 +1,1 @@
+# this is a game created by python using itf pygame module. this game consist of a paddle and a ball and work on the basis of collision between them
